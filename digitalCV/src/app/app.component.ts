@@ -43,7 +43,7 @@ export class AppComponent implements AfterViewInit {
   }
 }
 
-//Calculate points of polygon by path convertion
+// Calculate points of polygon by path convertion
 // var NUM_POINTS = 100;
 
 // var path = document.getElementById("bYOviKXN5");
